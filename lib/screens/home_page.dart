@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
 
   // Capacidade máxima
 
-  final int maxCapacity = 5;
+  final int maxCapacity = 30;
 
   // Lista de pessoas
 
